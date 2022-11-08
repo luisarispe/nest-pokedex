@@ -23,6 +23,7 @@ npm i -g nestjs/cli
 docker-compose up -d
 ```
 
-## Stack usuario
-* MongoDB
-* Nest
+## Stack usado
+
+- MongoDB
+- Nest
